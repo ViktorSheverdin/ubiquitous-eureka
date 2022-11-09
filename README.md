@@ -12,4 +12,13 @@ The goal of the project is to create an environment that will allow engineers to
 </ul>
 
 ## Project format
-Project is a simple ToDo List, where users can add/remove/update tasks
+Project is a spending tracker, which will get the receipts or bank statement or spending csv and put it in a nice UI to see what are the spendings
+
+## Technologies
+
+<ul>
+<li> Remix for FE and BE </li>
+<li> Fly.io for deployment </li>
+<li> Prisma to talk to DB </li>
+<li> SQL database </li>
+</ul>
