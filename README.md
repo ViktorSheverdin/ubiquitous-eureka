@@ -21,4 +21,5 @@ Project is a spending tracker, which will get the receipts or bank statement or 
 <li> Fly.io for deployment </li>
 <li> Prisma to talk to DB </li>
 <li> SQL database </li>
+<li> Jest for unit test and set it up for 80% coverage? </li>
 </ul>
